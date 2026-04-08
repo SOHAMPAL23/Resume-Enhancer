@@ -1,7 +1,3 @@
-Yes SPALL — here is your **complete, clean, single Markdown file** ready to paste directly into `README.md` ✅
-(No extra formatting, no broken blocks, GitHub-ready)
-
----
 
 # 🚀 Multi-Agent Resume Analyzer (LangGraph + Streamlit)
 
